@@ -1,0 +1,11 @@
+{
+  "name": "rroble/SymfonyReactorBundle",
+  "type": "Bundle",
+  "description": "Composer fork for https://github.com/Blackshawk/SymfonyReactorBundle",
+  "keywords": ["Symfony2", "ReactPHP"],
+  "homepage": "https://github.com/Blackshawk/SymfonyReactorBundle",
+  "license": "MIT",
+  "autoload": {
+    "psr-4": { "Blackshawk\\SymfonyReactorBundle\\": "" }
+  }
+}
